@@ -5,5 +5,20 @@
 }
 
 #container{
-    
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#numbers{
+    height: 80px;
+    width: 300px;
+    border: solid 2px black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
 }

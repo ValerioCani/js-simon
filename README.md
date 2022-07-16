@@ -16,12 +16,12 @@ Consigli del giorno:
 * Dividete in piccoli problemi la consegna.
 * Individuate gli elementi di cui avete bisogno per realizzare il programma.
 
--creare un array di numeri casuali da 1 a 99;
+<!-- -creare un array di numeri casuali da 1 a 99; -->
 
--visualizzare i numeri per trenta secondi;
+<!-- -visualizzare i numeri per trenta secondi; -->
 
--creare un ciclo for che si ripeta per 5 volte che faccia apparire un prompt per ciclo;
+<!-- -creare un ciclo for che si ripeta per 5 volte che faccia apparire un      prompt per ciclo; -->
 
--creare un nuovo array che contenga solo i numeri scritti nel prompt && che coincidono con uno dei numeri del primo array;
+<!-- -creare un nuovo array che contenga solo i numeri scritti nel prompt && che coincidono con uno dei numeri del primo array; -->
 
--far apparire un alert che visualizzi il secondo array; 
+<!-- -far apparire un alert che visualizzi il secondo array;  -->
