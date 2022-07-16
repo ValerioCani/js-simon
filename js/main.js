@@ -6,12 +6,12 @@ for(let i=0; i<5; i++){
     numberArray.push(randomNumber());
 };
 
-console.log(numberArray);
+
 const numbers = document.getElementById('numbers');
 numbers.innerHTML = numberArray[0]+' - '+numberArray[1]+' - '+numberArray[2]+' - '+numberArray[3]+' - '+numberArray[4];
 
-setTimeout(cleartimer, 3000);
-console.log(guessArray);
+setTimeout(cleartimer, 30000);
+
 
 
 
